@@ -4,7 +4,8 @@ public class Main {
 //        Ex1_Sort.run();
         //Ex2_Files.run();
 //        Ex1_QuickTests.run();
-        Ex3_PrimeMinisters.run();
+//        Ex3_PrimeMinisters.run();
+        As3_ParallelSort.run();
     }
 }
 

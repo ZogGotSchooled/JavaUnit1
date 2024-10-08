@@ -44,6 +44,30 @@ public class MyFiles {
         return tempIntArray;
     }//end loadStringArr from a text file
 
+    public static double[] loadDoubleArr(String filename) {
+        String addLines = "";
+        try {
+            BufferedReader file = new BufferedReader(new FileReader(filename));
+            while (file.ready()) {
+                addLines += file.readLine();
+                addLines += ",";
+
+            }//end while
+        } catch (IOException e) {
+            System.out.println(e);
+        }
+
+        String[] tempStringArray = addLines.split(",");
+
+        double[] tempDoubleArray = new double[tempStringArray.length];
+
+        for(int i = 0; i < tempStringArray.length; i++){
+            tempDoubleArray[i] = Double.parseDouble(tempStringArray[i]);
+        }
+
+        return tempDoubleArray;
+    }//end loadStringArr from a text file
+
 
     public static void saveString(String filename, String temp ) {
         try {
