@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d00b5b6c-e307-420a-a5e8-17f6d97788e0" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/PMs/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/PMs/party.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/PMs/startyear.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/copiesSold.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/price.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/reviewScores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/studioSizes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_Files.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_PrimeMinisters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MenuTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/As3_ParallelSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As3_ParallelSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_QuickTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Steam_2024_bestRevenue_1500.csv" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/SteamStats/Steam_2024_bestRevenue_1500.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
