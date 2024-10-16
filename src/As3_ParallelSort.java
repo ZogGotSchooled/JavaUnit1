@@ -32,7 +32,7 @@ public class As3_ParallelSort {
 
             }
             if (choice == 2) {
-                sortReviewScoreDescending(allReviewScores);
+                sortReviewScoreDescending();
                 printGamesAmount(listDataLength, minCopies);
                 System.out.println("Sorted by review score!");
             }
@@ -101,7 +101,8 @@ public class As3_ParallelSort {
         }
     }
 
-    private static void sortReviewScoreDescending(int[] arr){
+    private static void sortReviewScoreDescending(){
+        int arr[] = allReviewScores;
         for(int i=0; i<arr.length-1; i++) {
             int lowestIndex = i;
             for (int j = i + 1; j < arr.length; j++) {
@@ -155,6 +156,10 @@ public class As3_ParallelSort {
     }
 
     private static void search(){
+//        sortReviewScoreDescending();
+//        Search.binarySearch(allReviewScores, );
+
+
         System.out.println("What game do you want to search for?");
         String name = Library.input.nextLine();
 
