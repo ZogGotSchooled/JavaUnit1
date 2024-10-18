@@ -19,7 +19,7 @@ public class As3_ParallelSort {
 
         while(true) {
 
-            System.out.println("Press 1 to sort games alphabetically\nPress 2 to sort by review score\nPress 3 to filter by studio size (indie, AA, AAA)\nPress 4 to count the amount of games with more than "+minCopies+" copies. \nPress 5 to change the print amount (current:"+listDataLength+").\nPress 6 to change the minimum copies for a game to be printed (current:"+minCopies+").\nPress 7 to exit.");
+            System.out.println("Press 1 to sort games alphabetically\nPress 2 to sort by review score\nPress 3 to filter by studio size (indie, AA, AAA)\nPress 4 to count the amount of games with more than "+minCopies+" copies. \n Press 5 to search for a game. \n Press 6 to change the print amount (current:"+listDataLength+").\nPress 7 to change the minimum copies for a game to be printed (current:"+minCopies+").\nPress 8 to exit.");
 
             // int choice = 2;//to be removed
             int choice = Library.input.nextInt();
@@ -50,6 +50,11 @@ public class As3_ParallelSort {
 
             }
             if (choice == 5) {
+                search();
+
+            }
+            if(choice == 6)
+            {
                 System.out.println("How many results do you want to see listed?");
                 try{
                     listDataLength = Library.input.nextInt();
@@ -60,7 +65,7 @@ public class As3_ParallelSort {
                     System.out.println("Not an integer answer!");
                 }
             }
-            if (choice == 6) {
+            if (choice == 7) {
                 System.out.println("What is the minimum copies to consider?");
                 try{
                     minCopies = Library.input.nextInt();
@@ -71,7 +76,7 @@ public class As3_ParallelSort {
                     System.out.println("Not an integer answer!");
                 }
             }
-            if (choice == 7) {
+            if (choice == 8) {
                 break;
             }
             System.out.println();
@@ -164,7 +169,7 @@ public class As3_ParallelSort {
         String name = Library.input.nextLine();
 
         for(int i = 0; i < allNames.length; i++){
-            if(name == allNames[i]) {
+            if(name.equalsIgnoreCase(allNames[i])) {
                 printGame(i);
                 return;
             }
