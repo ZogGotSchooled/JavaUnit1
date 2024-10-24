@@ -6,8 +6,8 @@ public class Main {
 //        Ex1_QuickTests.run();
 //        Ex3_PrimeMinisters.run();
 //        As3_ParallelSort.run();
-//        As4_BinarySearch.run();
-        Exam_ZJ.run();
+        As4_BinarySearch.run();
+//        Exam_ZJ.run();
     }
 
 }

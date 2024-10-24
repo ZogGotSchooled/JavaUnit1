@@ -9,9 +9,9 @@ public class As4_BinarySearch {
             System.out.println(creature);
         }
 
-        for (int i = 0; i < creatures.length; i++) {
-            System.out.println(creatures[i]+types[i]+endangered[i]);
-        }
+//        for (int i = 0; i < creatures.length; i++) {
+//            System.out.println(creatures[i]+types[i]+endangered[i]);
+//        }
         while (true){
             //System.out.println(Search.binarySearch(creatures, "Viper Fish"));
             System.out.println("What creature do you want to search for? (or, type 'exit' to exit)");

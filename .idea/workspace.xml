@@ -7,6 +7,7 @@
     <list default="true" id="d00b5b6c-e307-420a-a5e8-17f6d97788e0" name="Changes" comment="init">
       <change afterPath="$PROJECT_DIR$/src/Exam_ZJ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/As4_BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As4_BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
     </list>
