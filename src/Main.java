@@ -7,8 +7,8 @@ public class Main {
 //        Ex3_PrimeMinisters.run();
 //        As3_ParallelSort.run();
 //        As4_BinarySearch.run();
-//        As5_Haiku.run();
-        Exam_ZJ.run();
+        As5_Haiku.run();
+//        Exam_ZJ.run();
 //
     }
 
