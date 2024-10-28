@@ -1,3 +1,10 @@
+/*
+All functions working well
+Search and Sort algorithms correctly used
+100%
+*/
+
+
 import java.util.Locale;
 
 public class Exam_ZJ {
