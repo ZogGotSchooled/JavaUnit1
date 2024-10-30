@@ -80,6 +80,20 @@ public class MyFiles {
         }
     }//end saveString
 
+    //saves a string array into a line by line text file.
+    public static void saveStringArray(String filename,String[] temp ) {
+        try {
+            PrintWriter file = new PrintWriter(new FileWriter(filename));
+
+            for (int i = 0; i < temp.length; i++) {
+                file.println(temp[i]);
+            }
+            file.close();
+        } catch (IOException ex) {
+            System.out.println(ex.toString());
+        }
+    }//end saveStringArray to a text file
+
 
     public static void saveInt(String filename, int temp ) {
         try {

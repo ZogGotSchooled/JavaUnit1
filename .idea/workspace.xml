@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d00b5b6c-e307-420a-a5e8-17f6d97788e0" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/HaikusBackup/haikupoem1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/HaikusBackup/haikupoem2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntelliJ_DataSet/HaikusBackup/haikupoem3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/Haiku_FlyingSquirrels" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem1" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem2" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem3" beforeDir="false" afterPath="$PROJECT_DIR$/IntelliJ_DataSet/Haikus/haikupoem3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/As5_Haiku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/As5_Haiku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/CompSci30_ZJ/Unit1_ZJ/IntelliJ_DataSet/Haikus",
+    "last_opened_file_path": "F:/CompSci30_ZJ/Unit1_ZJ/IntelliJ_DataSet",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -65,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CompSci30_ZJ\Unit1_ZJ\IntelliJ_DataSet" />
       <recent name="F:\CompSci30_ZJ\Unit1_ZJ\IntelliJ_DataSet\Haikus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
